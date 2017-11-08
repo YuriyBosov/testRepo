@@ -13,6 +13,7 @@
 		E7E79DC41FB373EF00F1389F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7E79DC31FB373EF00F1389F /* Assets.xcassets */; };
 		E7E79DC71FB373EF00F1389F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7E79DC51FB373EF00F1389F /* LaunchScreen.storyboard */; };
 		E7E79DCA1FB373EF00F1389F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E79DC91FB373EF00F1389F /* main.m */; };
+		E7E79DD21FB3846C00F1389F /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E79DD11FB3846C00F1389F /* ViewController2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		E7E79DC61FB373EF00F1389F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E7E79DC81FB373EF00F1389F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E7E79DC91FB373EF00F1389F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E7E79DD01FB3846C00F1389F /* ViewController2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		E7E79DD11FB3846C00F1389F /* ViewController2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				E7E79DBB1FB373EF00F1389F /* AppDelegate.m */,
 				E7E79DBD1FB373EF00F1389F /* ViewController.h */,
 				E7E79DBE1FB373EF00F1389F /* ViewController.m */,
+				E7E79DD01FB3846C00F1389F /* ViewController2.h */,
+				E7E79DD11FB3846C00F1389F /* ViewController2.m */,
 				E7E79DC01FB373EF00F1389F /* Main.storyboard */,
 				E7E79DC31FB373EF00F1389F /* Assets.xcassets */,
 				E7E79DC51FB373EF00F1389F /* LaunchScreen.storyboard */,
@@ -143,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7E79DBF1FB373EF00F1389F /* ViewController.m in Sources */,
+				E7E79DD21FB3846C00F1389F /* ViewController2.m in Sources */,
 				E7E79DCA1FB373EF00F1389F /* main.m in Sources */,
 				E7E79DBC1FB373EF00F1389F /* AppDelegate.m in Sources */,
 			);
